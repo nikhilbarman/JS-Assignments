@@ -1,0 +1,12 @@
+JavaScript Assignment - 1
+1.Print 5 stars in one line with space.
+code:
+let s="";
+for(let i=0;i<5;i++)
+{
+    s+='* '
+}
+console.log(s)
+
+Output:
+* * * * *
